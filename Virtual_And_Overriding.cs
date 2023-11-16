@@ -16,7 +16,7 @@ namespace Virtual_And_Overriding
 
     public class Mine : Me
     {
-        public  void more()
+        public override void more()
         {
             string name = "Zaid Tariq Shah";
             int age = 20;
